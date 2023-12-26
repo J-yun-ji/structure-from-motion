@@ -9,7 +9,7 @@ structure = 3D structure, motion = Camera pose
 <br>
 
 
-## 📌 목차
+## 🖇️ 목차
 1. [ SIFT vs ORB vs AKAZE](#비교)
 2. [keypoint / descriptor](#키포인트) 
 <br>
