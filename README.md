@@ -8,9 +8,10 @@ structure = 3D structure, motion = Camera pose
 </p>
 <br>
 
+### 🖇️ [실행결과 보러가기](https://github.com/J-yun-ji/structure-from-motion/blob/master/pdf/SIFT_%EC%A3%BC%ED%94%BC%ED%84%B0%20%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%8B%A4%ED%96%89%20%EA%B2%B0%EA%B3%BC.pdf)
 
 ## 🖇️ 목차
-1. [ SIFT vs ORB vs AKAZE](#비교)
+1. [SIFT vs ORB vs AKAZE](#비교)
 2. [keypoint / descriptor](#키포인트) 
 <br>
 <br>
